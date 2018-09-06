@@ -1,0 +1,12 @@
+Build/
+xcuserdata/
+Carthage/
+Pods/
+*.xcworkspace
+.DS_Store
+
+*.lock
+*.resolved
+
+VirtualAssistantforiOSwithWatsonVQMRJ-Swift/VirtualAssistantforiOSwithWatsonVQMRJ/BMSCredentials.plist
+ios_swift/VirtualAssistantforiOSwithWatsonVQMRJ/BMSCredentials.plist
